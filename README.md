@@ -19,6 +19,10 @@
 - Python
 - Pygame
 
+## 화면
+<img width="912" alt="Screenshot 2023-05-14 at 7 27 40 PM" src="https://github.com/supungbab/pygame/assets/77760217/a67dcf0b-14ff-47aa-ac1e-da6aab6ba98f">
+<img width="912" alt="Screenshot 2023-05-14 at 7 28 01 PM" src="https://github.com/supungbab/pygame/assets/77760217/46f9769c-24e9-4c58-b886-738cf531284a">
+
 <br />
 
 ## 프로젝트 실행 방법
